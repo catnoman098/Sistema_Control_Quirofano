@@ -1,7 +1,8 @@
 Sistema de Control de Infecciones en Quirófanos
 
 Este repositorio contiene el proyecto desarrollado en Python para simular y monitorear las variables
-ambientales (temperatura, humedad y presión diferencial) de varios quirófanos en tiempo real. A continuación se presenta:
+ambientales (temperatura, humedad y presión diferencial) de varios quirófanos en tiempo real,
+teniendo en cuenta la problematica de las IASS en la salud. A continuación se presenta:
 
 - Una descripción detallada del entorno
 - Las librerías utilizadas
